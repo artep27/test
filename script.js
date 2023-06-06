@@ -1,1 +1,3 @@
-console.log("V 01");
+console.log("V 05");
+
+console.log("sve je updejtano");
